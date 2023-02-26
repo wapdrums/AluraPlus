@@ -1,2 +1,2 @@
 # AluraPlus
-Olá, sou o pai da Moana 👶, desenvolvo em javascript. Buscando constantemente novos desafios e oportunidades para crescer e contribuir em projetos inovadores
+Projeto Alura Plus construído durante o curso "Praticando HTML/CSS" da Alura Cursos Online.
